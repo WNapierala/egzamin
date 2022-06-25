@@ -1,0 +1,16 @@
+Zadnie 2.
+
+1. Git status
+( badanie stanu )
+2. Git add.
+( dodanie wszystkich plików do git )
+2. Git commit -m „opis” 
+( Potwierdzenie zmian )
+3. Git push
+( Wyslanie do zdalnego repozytorium - zdefiniowanego jako origin )
+
+Zadanie 3.
+
+a. SELECT * FROM CoffeShop WHERE (Product = 'Latte' or Product = 'Long Black') and City NOT IN ('Philadelphia')
+b. SELECT Product FROM CoffeShop WHERE 'Customer ref' IN ('william thompson_86', 'mark taylor_113')
+c. SELECT DISTINCT City FROM CoffeShop WHERE Product IN ('Capuccino', 'Flat White')
